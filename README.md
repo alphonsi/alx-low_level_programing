@@ -1,1 +1,1 @@
-This is repo contains projects for laerning C languages
+This repo contains alx software enginearing projects for learning C languages
